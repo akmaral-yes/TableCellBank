@@ -1,9 +1,0 @@
-PyPDF2
-Wand
-scikit-image
-opencv-python
-pandas
-numpy
-lxml
-imutils
-pywin32
