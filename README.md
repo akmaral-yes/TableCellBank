@@ -18,7 +18,10 @@ Generate 100000 random colors with HEX and RGB codes:
 $ python table_cell_from_docx/random_colors_generator.py --n 100000
 ```
 
-
+Retrieve table images from downloaded word documents and build corresponding ground truth:
+```shell
+$ python table_cell_from_docx/table_cell_from_docx.py --do run --multiproc
+```
 
 ## Structure Labels
 
