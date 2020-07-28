@@ -7,15 +7,29 @@ on the internet, contains XXK high-quality labeled tables.
 
 The links to download Word documents from the Internet were provided by https://github.com/doc-analysis/TableBank
 
+## Run the code
+Download all the files from url_docx/url.csv:
+```shell
+$ python table_cell_from_docx/download_docx.py
+```
+
+Generate 100000 random colors with HEX and RGB codes:
+```shell
+$ python table_cell_from_docx/random_colors_generator.py --n 100000
+```
+
+
+
 ## Structure Labels
 
 
 
 ## Implementation Details
 
-## License
+The code was only tested on Windows 10 Pro
+<!---## License --->
 
-## Citation
+<!---## Citation --->
 
 ## References
 
