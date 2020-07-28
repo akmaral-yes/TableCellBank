@@ -13,7 +13,7 @@ The links to download Word documents from the Internet were provided by https://
 
 ## Implementation Details
 
-## License
+<!--- ## License --->
 
 ## Citation
 
