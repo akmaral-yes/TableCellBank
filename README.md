@@ -2,7 +2,8 @@
 
 ## Introduction
 
-TableCellBank is table strucure recognition dataset which contains 78553 table images and corresponding annotations obtained from Word source files.
+This repository contains code to build a large dataset of table images (several hundred thousand images).
+The table annotations obtained from Word source files.
 <!---contains XXK high-quality labeled tables. --->
 
 The links to download Word documents from the Internet were provided by https://github.com/doc-analysis/TableBank
