@@ -391,7 +391,8 @@ def find_index(output_path, uuids, url_df):
         indices_to_be_done.append(index)
         if index_min > index:
             index_min = index
-
+    indices_to_be_done.sort()
+    
     return indices_to_be_done, index_min
 
 
